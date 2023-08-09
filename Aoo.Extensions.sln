@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoo.Extensions.Configuration", "Aoo.Extensions.Configuration\Aoo.Extensions.Configuration.csproj", "{A64D52D6-E31E-40F0-9364-761B1311C473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoo.Extensions.Configuration.Tests", "Aoo.Extensions.Configuration.Tests\Aoo.Extensions.Configuration.Tests.csproj", "{5D6B7C54-504C-4706-8354-F863F7D64BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64D52D6-E31E-40F0-9364-761B1311C473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64D52D6-E31E-40F0-9364-761B1311C473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64D52D6-E31E-40F0-9364-761B1311C473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64D52D6-E31E-40F0-9364-761B1311C473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6B7C54-504C-4706-8354-F863F7D64BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6B7C54-504C-4706-8354-F863F7D64BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6B7C54-504C-4706-8354-F863F7D64BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6B7C54-504C-4706-8354-F863F7D64BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
